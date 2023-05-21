@@ -6,7 +6,7 @@
  
 ![GitHub Snake light](https://github.com/Benit1/Benit1/blob/output/github-snake.svg#gh-light-mode-only) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benit&show_icons=true&hide_border=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beni tibi&show_icons=true&hide_border=true&theme=transparent) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benit1&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
