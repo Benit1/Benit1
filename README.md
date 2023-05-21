@@ -1,4 +1,14 @@
 # Hi there 👋, I'm Beni tibi 
+### A passionate Software Developer and a Computer Science and Mathematics BSc student.
+
+
+
+ 
+![GitHub Snake light](https://github.com/Benit1/Benit1/blob/output/github-snake.svg#gh-light-mode-only) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benit&show_icons=true&hide_border=true&theme=transparent) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benit1&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Benit1/Benit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
