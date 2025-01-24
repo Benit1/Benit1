@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Beni tibi 
-### A passionate Software Developer and a Computer Science and Mathematics BSc student.
+### A passionate Software Developer and a Bachelor’s degree holder in Computer Science and Mathematics.
 
 
 
